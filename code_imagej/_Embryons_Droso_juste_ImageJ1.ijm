@@ -1,8 +1,8 @@
+// segmentation simple juste avec ImageJ1
+
 setSlice(2);
 run("Duplicate...", "duplicate channels=2-2");
 run("Gaussian Blur...", "sigma=2");
-setAutoThreshold("Default dark");
-//run("Threshold...");
 setAutoThreshold("Huang dark");
 setOption("BlackBackground", false);
 run("Convert to Mask");
