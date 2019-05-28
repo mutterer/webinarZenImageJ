@@ -1,3 +1,7 @@
+// utiliser un plugin uniquement dispo dans Fiji
+// depuis ImageJ1
+// jerome.mutterer[at]gmail.com
+
 // prétraitement : lissage du canal 2
 setSlice(2);
 run("Duplicate...", "title=temp");
