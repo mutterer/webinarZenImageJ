@@ -1,7 +1,7 @@
 // This macro uses the getValue(measurement) function
 // (added in 1.52p) to paint ROI Manager ROIs according 
 // to a chosen results table column.
-// Author: Jerome Mutterer
+// jerome.mutterer[at]gmail.com
 
  if (!isOpen("Results")||(nImages==0)||roiManager('count')==0) {
      run("Blobs (25K)");
