@@ -10,3 +10,9 @@ Mes documents / Carl Zeiss / ZEN / Documents / Image Analysis Settings
 
 Puis lancer ZEN blue 2.6 
 
+
+# Installation ImageJ1
+* Téléchargement d'ImageJ1: https://imagej.nih.gov/ij/download.html
+* Placer les macros de code_ImageJ/ dans ImageJ/Plugins/
+
+
