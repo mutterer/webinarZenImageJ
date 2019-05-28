@@ -1,3 +1,7 @@
+// segment plantlets using the 
+// excessive green image : 2xG-R-B
+// jerome.mutterer[at]gmail.com
+
 run("ROI Manager...");
 roiManager("reset");
 setBatchMode(true);
