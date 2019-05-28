@@ -1,4 +1,5 @@
 // visually select and count ROIs according to 1 threshold
+// jerome.mutterer[at]gmail.com
 
   parameters=split(Table.headings);
 
