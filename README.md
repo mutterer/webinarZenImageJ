@@ -1,6 +1,9 @@
 # webinarZenImageJ
 data for the image analysis webinar by Noel Converset & Jerome Mutterer
 
+[![](https://github.com/mutterer/webinarZenImageJ/blob/master/images/ij_zen_analyse_image.png)]()
+
+
 # Installation programmes de ZEN
 Attention ces programmes ont été créés à partir de ZEN 2.6, 
 il ne sont pas compatibles (en tous cas pas testés) avec des versions antérieures de ZEN 
